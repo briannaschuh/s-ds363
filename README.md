@@ -1,3 +1,5 @@
+# Premier League Analysis
+
 S&amp;DS 363 - Multivariate Statistical Methods
 
 A multivariate analysis of the Premier league based on statistics from FIFA 20. 
