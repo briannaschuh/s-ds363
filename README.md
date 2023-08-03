@@ -19,7 +19,10 @@ The primary objective of this analysis is to determine if soccer players can be 
 
 
 ## Dataset
-The analysis is performed on a subset of the FIFA 20 dataset, focusing on Premier League clubs during the 2019 – 2020 season. The dataset includes a range of player statistics, from age and height to attacking and defensive skills.
+The analysis is performed on a subset of the FIFA 20 dataset, focusing on Premier League clubs during the 2019 – 2020 season. The dataset includes a range of player statistics, from age and height to attacking and defensive skills. The dataset used in this project is sourced from [Kaggle: FIFA 20 Complete Player Dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset). 
+
+Please note that the dataset is subject to the terms and conditions set by its original creator.
+
 
 ## Results and Conclusions
 The analysis reveals significant differences in mean wage, mentality composure, and movement agility based on player positions. However, the attempts to categorize players through these variables were not successful, which suggests that the relationship between these variables are not easily defined, and thus more complex models will need to be used for further research. 
