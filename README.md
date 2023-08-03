@@ -33,6 +33,7 @@ While the initial analysis provides valuable insights, future investigations cou
 ## Files
 - [premier-league-scratchwork.Rmd](premier-league-scratchwork.Rmd) - R Markdown document containing project scratchwork and exploratory analysis.
 - [final-project-script.R](final-project-script.R) - R script with the final analysis code and modeling.
+
 Both files contain the same R code. The only difference is that first file is an R Markdown and the second file is an R script.
 
 ## License
