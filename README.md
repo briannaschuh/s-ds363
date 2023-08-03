@@ -9,8 +9,6 @@ Welcome to the **Multivariate Exploratory Analysis on the Premier League** repos
 - [Results and Conclusions](#results-and-conclusions)
 - [Points for Further Analysis](#points-for-further-analysis)
 - [Files](#files)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
