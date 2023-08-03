@@ -1,6 +1,6 @@
 # Multivariate Exploratory Analysis on the Premier League
 
-Welcome to the **Multivariate Exploratory Analysis on the Premier League** repository! This project focuses on performing an in-depth analysis of player statistics from FIFA 20 to gain insights into the categorization of soccer players based on various attributes. This project was completed as a requirement for a Yale course, S&DS 363: Multivariate Statistical Methods.
+This project focuses on performing an in-depth analysis of player statistics from FIFA 20 to gain insights into the categorization of soccer players based on various attributes. This project was completed as a requirement for a Yale course, S&DS 363: Multivariate Statistical Methods.
 
 ## Table of Contents
 - [Introduction](#introduction)
