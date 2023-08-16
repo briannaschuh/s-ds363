@@ -41,4 +41,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-*Disclaimer: This project is based on data available up to 2021. The analysis and conclusions might not reflect more recent developments.*
+
